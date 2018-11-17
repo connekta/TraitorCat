@@ -1,6 +1,8 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+!Plugins/
+
 # Compiled Object files
 *.slo
 *.lo
@@ -120,4 +122,3 @@ Saved/
 Build/
 
 
-!Plugins/*
