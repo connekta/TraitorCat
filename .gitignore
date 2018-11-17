@@ -1,7 +1,7 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-!Plugins/
+!Plugins/AdvancedSessions/AdvancedSessions/Binaries/
 
 # Compiled Object files
 *.slo
